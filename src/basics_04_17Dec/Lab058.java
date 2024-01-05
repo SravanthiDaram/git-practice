@@ -1,4 +1,4 @@
-package basics_o4_17Dec;
+package basics_04_17Dec;
 
 import java.util.Scanner;
 
@@ -13,8 +13,8 @@ public class Lab058 {
         int y = sc.nextInt();
         int z = sc.nextInt();
 
-        double a = x^2;
-        double b = y^2;
+        double a = Math.pow(x,2);
+        double b = Math.pow(y,2);
         double c = Math.abs(z);
 
         System.out.println(Math.cbrt(a+b-c));
