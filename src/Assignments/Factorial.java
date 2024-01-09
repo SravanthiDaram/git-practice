@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Lab097 {
+public class Factorial {
     public static void main(String[] args) {
         // factorial of a number
 

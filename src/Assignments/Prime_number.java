@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Lab098 {
+public class Prime_number {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

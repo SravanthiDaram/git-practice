@@ -7,7 +7,7 @@ public static void main (String[] args){
     // Logical operator || or 
     // true, true = true
     //true, false = true
-    //flase,true = true
+    //false,true = true
     //false, false = false 
 
     int a =30;
@@ -19,9 +19,9 @@ public static void main (String[] args){
 
     // Logical operator && and 
     //true,true = true
-    //true,false = flase
-    //flase,true = false
-    //false,false = flase
+    //true,false = false
+    //false,true = false
+    //false,false = false
 
     int c = 65;
     boolean d = c>75&&c<75;

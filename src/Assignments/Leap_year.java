@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Lab099 {
+public class Leap_year {
     public static void main(String[] args) {
         // Finding leap year
 
