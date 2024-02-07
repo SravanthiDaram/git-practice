@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Lab137 {
     public static void main(String[] args) {
 
-        //String builder ios not a thread safe
+        //String builder is not a thread safe
         //string buffer is a thread safe
         //Palindrome program using string builder
 
